@@ -60,4 +60,4 @@ def all_monuments():
         ALL_MONUMENTS.append(df1)
     df_final = pd.concat(ALL_MONUMENTS)
     df_output2= pd.merge(ALL_monuments[['title','address.street-address']], df_final[['name','address','title']], on ='title')
-    return(df_output2)
+    return df_output2

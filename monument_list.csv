@@ -1,0 +1,229 @@
+,title,address.street-address,name,address,distance
+0,Almacenes Rodríguez,Calle CABALLERO DE GRACIA 3,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,184.81762085162896
+1,Antigua Fábrica Martini &amp; Rossi,AVENIDA ARAGON 328,215 - Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6657.002167177619
+2,Ateneo de Madrid,Calle PRADO 21,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,283.4923608123022
+3,Banco Bilbao Vizcaya Argentaria,Calle ALCALÁ 16,28 - Sevilla,Calle Alcalá nº 27,154.8084456247344
+4,Banco de España,Calle ALCALÁ 48,20a - Banco de España A,Calle Alcalá nº 49,136.07070061686258
+5,Banco Matritense,Calle GRAN VIA 22,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,95.22204590331884
+6,Basílica Pontificia de San Miguel,CALLE SAN JUSTO 4,35 - Plaza del Cordón,Plaza del Cordón,74.4204023803136
+7,Biblioteca Central de la UNED Madrid,CALLE SENDA DEL REY 8,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,733.4869567996362
+8,Biblioteca Pública Usera José Hierro,AVENIDA RAFAELA YBARRA 43,213 - Glorieta de Cádiz,Calle Antonio López nº 129,1405.991493085104
+9,Bolsa de Madrid,PLAZA LEALTAD 1,86 - Cibeles,Plaza Cibeles,238.47198029323633
+10,CaixaForum,PASEO PRADO 36,67 - Almadén,Calle Almadén nº 28,23.870310308041486
+11,Capilla de San Isidro en la Iglesia de San Andrés,PLAZA SAN ANDRES 1,38 - Plaza de los Carros,Carrera de San Francisco nº 1,105.93382152474483
+12,Casa Árabe (antiguas Escuelas Aguirre),CALLE ALCALA 62,96 - Castelló,Calle Alcalá nº 111,34.61058110227385
+13,Casa de la Villa,PLAZA VILLA 5,35 - Plaza del Cordón,Plaza del Cordón,116.37222267560969
+14,Casa de las Alhajas. Antigua Caja de Ahorros,PLAZA SAN MARTIN 1,25b - Plaza de Celenque B,Plaza de Celenque nº 1,117.15782577551286
+15,Casa de las Flores,CALLE RODRIGUEZ SAN PEDRO 72,111a - Arcipreste de Hita A,Calle Arcipreste de Hita nº 12,221.6149733226674
+16,Casa del cura de la iglesia de San José,Calle ALCALÁ ,20a - Banco de España A,Calle Alcalá nº 49,159.1732459833146
+17,"Casa Sindical (actual sede del Ministerio de Sanidad, Servicios Sociales e Igualdad)",PASEO PRADO 18,27 - Huertas,Calle Jesús nº 1,184.197901302685
+18,Casino de Madrid,CALLE ALCALA 15,1b - Puerta del Sol B,Puerta del Sol nº 1,156.30585410310508
+19,Casita Del Príncipe (El Pardo),CALLE ADELINA PATTI 1,261 - Facultad Derecho,Avenida Complutense nº 23,9822.12351412662
+20,Cementerio de la Almudena,AVENIDA DAROCA 94,234 - Marqués de Corbera 52,Avenida Marqués de Corbera nº 52,546.2427133865798
+21,"Central Eléctrica del Pacífico, talleres y oficinas del Metro",CALLE VALDERRIBAS 49,84 - Valderribas,Calle Doctor Esquerdo nº 191,224.56160116201164
+22,Centro Cultural Daoíz y Velarde,PLAZA DAOIZ Y VELARDE 4,178 - Junta Municipal Retiro,Calle León Gil de Palacio nº 3,221.65499969717465
+23,Centro Cultural La Corrala (sede del Museo de Artes y Tradiciones Populares),CALLE CARLOS ARNICHES 3,39 - Plaza de la Cebada,Plaza de la Cebada nº 16 ,278.28019680110634
+24,Centro del Ejército y la Armada (Casino Militar),Calle CABALLERO DE GRACIA 9,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,143.34058102699748
+25,Cine Avenida,Calle ABADA 11,2 - Miguel Moya,Calle Miguel Moya nº 1,112.94205936084371
+26,Cine Callao,Plaza CALLAO 2,22 - Jacometrezo,Calle Jacometrezo nº 3,32.10284447466853
+27,Cine Gran Vía y Hotel Vincci,Calle GARCIA MOLINAS ,16 - San Bernardo,Calle San Bernardo nº 22,148.29674743077223
+28,Círculo de Bellas Artes,Calle ALCALÁ 42,20a - Banco de España A,Calle Alcalá nº 49,166.20301991743005
+29,Círculo de la Unión Mercantil e Industrial,Calle GRAN VIA 24,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,137.93709736504795
+30,Ciudad Universitaria de Madrid,CIUDAD UNIVERSITARIA ,261 - Facultad Derecho,Avenida Complutense nº 23,901.9233386356733
+31,Colegio de Nuestra Señora de Loreto. Madres Ursulinas,CALLE PRINCIPE DE VERGARA 42,186 - General Pardiñas,Calle General Pardiñas nº 56,192.73899297034112
+32,Colegio Mayor Casa do Brasil,AVENIDA ARCO DE LA VICTORIA 3,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,524.0355939620541
+33,Colegio Nuestra Señora del Pilar,CALLE CASTELLO 56,109 - Marqués de Salamanca,Calle José Ortega y Gasset nº 30,203.6897252616979
+34,Colegio Oficial de Arquitectos de Madrid,CALLE HORTALEZA 63,6 - Colegio Arquitectos,Calle Hortaleza nº 63,8.886767750006207
+35,Complejo El Águila,CALLE RAMIREZ DE PRADO 3,118 - Juan Martín,Calle Juan Martín el Empecinado nº 16,222.51537169573425
+36,Congreso de los Diputados,Plaza CORTES 1,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,95.35931472616079
+37,Convento de las Comendadoras y parroquia de Santiago el Mayor,PLAZA COMENDADORAS 10,13 - Conde Duque,Calle Conde Duque nº 22,167.9186961412424
+38,Cuartel del Conde Duque,Calle CONDE DUQUE 9,13 - Conde Duque,Calle Conde Duque nº 22,72.05019946093547
+39,Edificio Bankinter,PASEO CASTELLANA 29,103 - Ortega y Gasset,Calle José Ortega y Gasset nº 4,334.51047969718695
+40,Edificio Bankunión (Parlamento Europeo y Embajada de Irlanda),PASEO CASTELLANA 46,142 - Castellana 42,Paseo de la Castellana nº 42,88.82313236665124
+41,Edificio Carrión (Capitol),Calle GRAN VIA 41,22 - Jacometrezo,Calle Jacometrezo nº 3,42.438804321375436
+42,Edificio Coliseum (Teatro Coliseum),CALLE GRAN VIA 78,116b - Plaza de España B,Calle Princesa nº 5,57.70559653367667
+43,Edificio de 20 viviendas en calle Cervantes,CALLE CERVANTES 36,27 - Huertas,Calle Jesús nº 1,121.54162736539861
+44,Edificio de La Unión y el Fénix,Calle GARCIA MOLINAS ,16 - San Bernardo,Calle San Bernardo nº 22,187.76215704288452
+45,Edificio de Los Previsores del Porvenir,Calle CABALLERO DE GRACIA 19,28 - Sevilla,Calle Alcalá nº 27,112.74253710190408
+46,Edificio de Oficinas y Apartamentos,Calle GRAN VIA 43,22 - Jacometrezo,Calle Jacometrezo nº 3,76.5101626804029
+47,Edificio de Viviendas en la calle Hilarión Eslava,CALLE HILARION ESLAVA 10,111a - Arcipreste de Hita A,Calle Arcipreste de Hita nº 12,126.66337928895351
+48,Edificio Girasol,CALLE LAGASCA 90,88 - Embajada de Italia,Calle Velázquez nº 75,102.68544200751155
+49,Edificio Gran Peña,Calle GRAN VIA 2,28 - Sevilla,Calle Alcalá nº 27,183.95190934619745
+50,Edificio Hostal Lauria,Calle GRAN VIA 50,2 - Miguel Moya,Calle Miguel Moya nº 1,84.96889595061218
+51,Edificio La Adriática,Plaza CALLAO ,2 - Miguel Moya,Calle Miguel Moya nº 1,85.17739531128086
+52,Edificio Los Sótanos,Calle GRAN VIA 59,23 - Santo Domingo,Plaza de Santo Domingo nº 1,220.17414794627405
+53,Edificio Los Sótanos,Calle GRAN VIA 59,23 - Santo Domingo,Plaza de Santo Domingo nº 1,190.50107648949353
+54,Edificio Los Sótanos,Calle GRAN VIA 57,23 - Santo Domingo,Plaza de Santo Domingo nº 1,220.17414794627405
+55,Edificio Los Sótanos,Calle GRAN VIA 57,23 - Santo Domingo,Plaza de Santo Domingo nº 1,190.50107648949353
+56,Edificio Los Sótanos y Teatro Lope de Vega,Calle GRAN VIA 55,23 - Santo Domingo,Plaza de Santo Domingo nº 1,156.0545069877569
+57,Edificio Matesanz,Calle GRAN VIA 27,210 - Tres Cruces,Calle Tres Cruces nº 7,23.260042779380388
+58,Edificio Metrópolis,CALLE ALCALA 39,28 - Sevilla,Calle Alcalá nº 27,125.91382727987184
+59,Edificio para el Banco Urquijo,Calle GRAN VIA 4,28 - Sevilla,Calle Alcalá nº 27,172.54642071643806
+60,Edificio Rialto,Calle GRAN VIA 54,22 - Jacometrezo,Calle Jacometrezo nº 3,162.00246374670118
+61,Edificio Telefónica,CALLE GRAN VIA 28,211 - Desengaño,Calle Desengaño nº 1,56.82035893278959
+62,Edificio Vita,Calle GRAN VIA 62,16 - San Bernardo,Calle San Bernardo nº 22,136.65780470610656
+63,Edificio Vitalicio,Plaza ESPAÑA ,116b - Plaza de España B,Calle Princesa nº 5,78.21593735629507
+64,Edificio y Cine Pompeya,Calle GRAN VIA 70,116b - Plaza de España B,Calle Princesa nº 5,161.09840682035627
+65,Edificios Los Sótanos. Hotel Emperador,Calle GRAN VIA 53,23 - Santo Domingo,Plaza de Santo Domingo nº 1,123.34624656527858
+66,Ermita de la Virgen del Puerto,PASEO VIRGEN DEL PUERTO 4,167 - Segovia 45,Calle Segovia nº 45,455.1940800991577
+67,Ermita de San Antonio de la Florida,GLORIETA SAN ANTONIO DE LA FLORIDA 4,161 - Paseo de la Florida,Paseo de la Florida nº 8,569.8551470647801
+68,Ermita de Santa Maria la Antigua,CALLE MONSE&amp;Ntilde;OR OSCAR ROMERO 92,224 - Caramuel,Calle Caramuel nº 51,3993.510080585763
+69,Escuelas Pías de San Fernando (Biblioteca  y centro de la UNED),CALLE SOMBRERETE 15,44 - Plaza de Nelson Mandela,Calle Mesón de Paredes nº 35,203.58551559933966
+70,Estación de Atocha,PLAZA EMPERADOR CARLOS V 3,50 - Museo Reina Sofía,Calle Santa Isabel nº 57,125.6344786757012
+71,Fundación Francisco Giner de los Ríos,PASEO GENERAL MARTINEZ CAMPOS 14,125 - General Martínez Campos ,Calle Fernández de la Hoz nº 29,222.01326444503127
+72,Fundación Juan March,CALLE CASTELLO 77,109 - Marqués de Salamanca,Calle José Ortega y Gasset nº 30,143.03899823466736
+73,Gimnasio del Colegio Maravillas,CALLE JOAQUIN COSTA 21,137 - Plaza de la República Argentina,Plaza de la República Argentina nº 6,253.05883980523166
+74,Grandes Almacenes Madrid-París,Calle DESENGAÑO 7,211 - Desengaño,Calle Desengaño nº 1,114.97977515297843
+75,Hipódromo de la Zarzuela,HIPODROMO ZARZUELA ,261 - Facultad Derecho,Avenida Complutense nº 23,4382.122230644921
+76,Hospital de Jornaleros San Francisco de Paula,CALLE MAUDES 17,133 - Raimundo Fernández,Calle Raimundo Fernández Villaverde nº 33,224.56567272723868
+77,Hotel Alfonso XIII,Calle GRAN VIA 34,210 - Tres Cruces,Calle Tres Cruces nº 7,185.66153594706344
+78,Hotel Apartamentos Espahotel,Calle FLOR BAJA 6,116b - Plaza de España B,Calle Princesa nº 5,140.87526273330363
+79,Hotel Gran Vía,Calle GRAN VIA 25,210 - Tres Cruces,Calle Tres Cruces nº 7,50.090205459192646
+80,Hotel Menfis,Calle GENERAL MITRE ,116b - Plaza de España B,Calle Princesa nº 5,108.54350973162946
+81,Hotel Metropolitano,Calle GRAN VIA 23,210 - Tres Cruces,Calle Tres Cruces nº 7,79.56980811569451
+82,Hotel Nueva York y cine Actualidades,Calle GRAN VIA 48,2 - Miguel Moya,Calle Miguel Moya nº 1,54.41040267990849
+83,Hotel Palace,PLAZA CORTES 7,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,87.03286046812708
+84,Hotel Roma,CALLE CLAVEL 3,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,87.41667556349229
+85,Hotel Washington,Calle GRAN VIA 72,116b - Plaza de España B,Calle Princesa nº 5,133.13045024209217
+86,Hotel y cine Rex,Calle GRAN VIA 43B,22 - Jacometrezo,Calle Jacometrezo nº 3,94.77523801704574
+87,Iglesia de la Concepción Real de Calatrava,Calle ALCALÁ 25,28 - Sevilla,Calle Alcalá nº 27,66.6283961327117
+88,Iglesia de San Antonio de los Alemanes,Calle PUEBLA 22,17 - Carlos Cambronero,Plaza de Carlos Cambronero nº 2,93.97368213416502
+89,Iglesia de San Jerónimo el Real,CALLE MORETO 4,68 - Espalter,Calle Espalter nº 1,185.3280488897923
+90,Iglesia de San José,Calle ALCALÁ 43,20a - Banco de España A,Calle Alcalá nº 49,141.38457904438556
+91,Iglesia de San Manuel y San Benito,Calle ALCALÁ 83,95 - Villanueva,Calle Claudio Coello nº 109,228.31582741581417
+92,Iglesia de San Marcos,CALLE SAN LEONARDO 10,116b - Plaza de España B,Calle Princesa nº 5,138.81983087033944
+93,Iglesia de San Pedro el Viejo,Calle NUNCIO 14,35 - Plaza del Cordón,Plaza del Cordón,105.93654653817916
+94,Iglesia Parroquial de Santa Ana y Nuestra Señora de la Esperanza,CALLE CAÑADA 35,219 - Marroquina,Calle Camino de los Vinateros nº 108,367.93345918167057
+95,Ilustre Colegio Oficial de Médicos de Madrid,CALLE SANTA ISABEL 51,50 - Museo Reina Sofía,Calle Santa Isabel nº 57,247.48796903015176
+96,Instituto Cervantes (antiguo Banco Español del Río de la Plata),Calle ALCALÁ 49,20a - Banco de España A,Calle Alcalá nº 49,37.6907183974657
+97,Instituto del Patrimonio Cultural de España,CALLE PINTOR EL GRECO 4,257 - INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,683.0288219726042
+98,La Casa Encendida,RONDA VALENCIA 2,49 - Casa Encendida,Ronda de Atocha nº 34,57.263094030486464
+99,Matadero y Mercado Municipal de Granados,PASEO CHOPERA 14,165 - Entrada Matadero,Paseo de la Chopera nº 14,62.2725404203129
+100,Medialab-Prado (antigua Serrería Belga),CALLE ALAMEDA 15,67 - Almadén,Calle Almadén nº 28,69.5047512700012
+101,Mercado de San Miguel,Plaza SAN MIGUEL ,9 - Plaza de San Miguel,Plaza de San Miguel nº 9,60.58012315708362
+102,"Ministerio de Agricultura, Pesca y Alimentación",PASEO INFANTA ISABEL 1,80a - Atocha A,Paseo de la Infanta Isabel nº 3,127.01907581471144
+103,Monasterio de las Descalzas Reales,Plaza DESCALZAS ,25a - Plaza de Celenque A,Plaza de Celenque nº 1,141.9698569268331
+104,Monasterio de Montserrat,CALLE SAN BERNARDO 79,12 - San Hermenegildo,Calle San Bernardo nº 85,73.76384399493652
+105,Museo Cerralbo,CALLE VENTURA RODRIGUEZ 17,116a - Plaza de España A,Calle Princesa nº 5,172.9736632198549
+106,Museo de América,AVENIDA REYES CATOLICOS 6,110 - Moncloa,Paseo de Moret nº 2,402.20427885586963
+107,Museo de Historia de Madrid. Museo Municipal de Madrid,CALLE FUENCARRAL 78,54 - Barceló,Calle Barceló nº 7,119.73477521552425
+108,Museo del Ferrocarril,PASEO DELICIAS 1,51 - Ronda de Atocha,Ronda de Atocha nº 2,81.95942437293517
+109,Museo Lázaro Galdiano,CALLE SERRANO 122,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,Paseo de la Castellana nº 43,367.72499032813306
+110,Museo Nacional Centro de Arte Reina Sofía,CALLE SANTA ISABEL 52,50 - Museo Reina Sofía,Calle Santa Isabel nº 57,73.87423570436897
+111,Museo Nacional de Ciencias Naturales y Escuela Técnica Superior de Ingenieros Industriales,CALLE JOSE GUTIERREZ ABASCAL 2,139 - José Gutiérrez Abascal ,Calle José Gutiérrez Abascal nº 2,104.40674648034292
+112,Museo Nacional del Prado,PASEO PRADO 1,86 - Cibeles,Plaza Cibeles,86.34707634207588
+113,Museo Sorolla,Paseo GENERAL MARTINEZ CAMPOS 37,125 - General Martínez Campos ,Calle Fernández de la Hoz nº 29,271.7143215485477
+114,Museo Thyssen-Bornemisza (Palacio de Vistahermosa),PASEO PRADO 8,29 - Marqués de Cubas,Calle del Marqués de Cubas nº 25,114.54404290311356
+115,Nuevos Ministerios,CALLE AGUSTIN DE BETANCOURT 4,134 - Agustín de Betancourt,Calle María de Guzmán nº 58,184.811921342966
+116,Observatorio Astronómico,CALLE ALFONSO XII 3,69 - Puerta del Ángel Caído,Avenida de Alfonso XII nº 54,52.87382108620681
+117,Oficinas para Ramón López-Rumayor Lombera,Calle CONCEPCION ARENAL 1,2 - Miguel Moya,Calle Miguel Moya nº 1,98.18404280502678
+118,Oficinas para Vicente Patuel,Calle CHINCHILLA 9,210 - Tres Cruces,Calle Tres Cruces nº 7,130.3493458595259
+119,Palacio de Altamira (Instituto Europeo del Diseño),Calle FLOR ALTA 8,16 - San Bernardo,Calle San Bernardo nº 22,147.28646964244845
+120,Palacio de Amboage (actual sede de la Embajada de Italia),CALLE LAGASCA 98,88 - Embajada de Italia,Calle Velázquez nº 75,116.23927591359198
+121,Palacio de Biblioteca y Museos Nacionales,CALLE SERRANO 13,95 - Villanueva,Calle Claudio Coello nº 109,166.42451931603048
+122,Palacio de Buena Vista (actual sede del Cuartel General del Ejército de Tierra),Calle ALCALÁ 51,19 - Prim,Calle Prim nº 2,177.68326397700855
+123,"Palacio de Comunicaciones (Palacio de Cibeles, Ayuntamiento de Madrid)",PLAZA CIBELES 1,86 - Cibeles,Plaza Cibeles,136.0013866245909
+124,Palacio de Fernán Nuñez (Fundación de los Ferrocarriles Españoles),CALLE SANTA ISABEL 44,42 - Santa Isabel,Calle Atocha nº 95,166.16154519612928
+125,Palacio de la Música,Calle ABADA 14,2 - Miguel Moya,Calle Miguel Moya nº 1,153.20739441434594
+126,Palacio de la Prensa,PLAZA CALLAO 4,2 - Miguel Moya,Calle Miguel Moya nº 1,90.07669661474611
+127,Palacio de Linares (actual Casa de América),PLAZA CIBELES 1,86 - Cibeles,Plaza Cibeles,136.0013866245909
+128,Palacio de Liria,CALLE PRINCESA 20,14 - Ventura Rodríguez,Calle Duque de Liria,125.14420776941319
+129,Palacio de Longoria (sede de la Sociedad General de Autores y Editores),Calle FERNANDO VI 4,7 - Hortaleza,Calle Hortaleza nº 75,102.7053415607869
+130,Palacio de los Duques de Santoña (Cámara de Comercio),Calle HUERTAS 13,52 - Plaza de Santa Ana,Plaza de Santa Ana nº 10,52.61565276666564
+131,Palacio de Santa Cruz (sede actual del Ministerio de Asuntos Exteriores),PLAZA PROVINCIA 1,32 - Plaza de la Provincia,Plaza de la Provincia nº 1,42.15250228124884
+132,Palacio del Duque de Uceda o Palacio de Consejos,CALLE MAYOR 79,166 - Segovia 26,Calle Segovia nº 26,146.75244912882138
+133,Palacio del marqués de Perales (Filmoteca Nacional),CALLE MAGDALENA 10,43 - Jesús y María,Calle Lavapiés nº 34,243.9522768352797
+134,Palacio del Marqués de Salamanca,Paseo RECOLETOS 10,94 - Biblioteca Nacional,Paseo de Recoletos nº 20,201.48336150897325
+135,Palacio Real de El Pardo,CALLE MANUEL ALONSO 1,261 - Facultad Derecho,Avenida Complutense nº 23,9373.953950537156
+136,Palacio Real de Madrid,Calle BAILEN ,36 - Plaza Ramales,Plaza de Ramales,305.2731447200993
+137,Parque de El Retiro,PLAZA INDEPENDENCIA 7,60 - Plaza de la Independencia,Plaza de la Independencia nº 6,57.21596934053364
+138,Parroquia de Nuestra Señora del Tránsito,CARRETERA CANILLAS 40,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,2133.531418627982
+139,Parroquia de San Pedro Advincula,CALLE SIERRA GORDA 5,221 - Pavones,Calle Hacienda de Pavones nº 342,2746.1756587101117
+140,Parroquia de San Pedro de los Dominicos,AVENIDA BURGOS 204,249 - Manuel Caldeiro,Paseo de la Castellana nº 298,3871.597077883886
+141,Parroquia de Santa Bárbara,CALLE GENERAL CASTA&amp;Ntilde;OS 2,26 - Plaza de las Salesas,Plaza de las Salesas 7,65.81069966102987
+142,Parroquia Nuestra Señora de Guadalupe,CALLE PUERTO RICO 1,197 - Parque Berlín,Avenida de Concha Espina nº 34,388.4696612695788
+143,Parroquia San Millán y San Cayetano,Calle EMBAJADORES 15,44 - Plaza de Nelson Mandela,Calle Mesón de Paredes nº 35,161.94414526056593
+144,Plaza de Toros de Las Ventas,Calle ALCALÁ 237,187 - Alcalá-Ventas,Calle Alejandro González nº 1,240.23745204541308
+145,Plaza Mayor,Plaza MAYOR ,31 - Calle Mayor,Calle Mayor nº 20,120.61488517817304
+146,Puerta del Sol,PLAZA PUERTA DEL SOL 1,1a - Puerta del Sol A,Puerta del Sol nº 1,59.62908277345965
+147,Real Academia de Bellas Artes de San Fernando,Calle ALCALÁ 13,1b - Puerta del Sol B,Puerta del Sol nº 1,117.12715766912605
+148,Real Academia de la Historia,CALLE LEON 21,41 - Antón Martín,Calle Atocha nº 54,142.3057294628916
+149,Real Academia Española de la Lengua,CALLE FELIPE IV 4,65 - Antonio Maura,Calle Antonio Maura nº 15,244.0031957952115
+150,Real Basílica de San Francisco el Grande,Gran Vía SAN FRANCISCO 19,37 - Plaza de San Francisco,Plaza de San Francisco nº 5,78.7910818956829
+151,Real Casa de Correos,PLAZA PUERTA DEL SOL 7,33 - Carretas,Calle Carretas nº 8,80.01275282674418
+152,Real Casa de la Aduana (actual sede del Ministerio de Hacienda),CALLE ALCALA 5,1a - Puerta del Sol A,Puerta del Sol nº 1,11.348866735534074
+153,Real Colegiata de San Isidro,CALLE TOLEDO 37,39 - Plaza de la Cebada,Plaza de la Cebada nº 16 ,249.7172877593393
+154,Real Jardín Botánico,PLAZA MURILLO 2,68 - Espalter,Calle Espalter nº 1,104.1743036154614
+155,Real Monasterio de la Encarnación,Plaza ENCARNACION 1,30 - San Quintín,Calle Pavía nº 6,94.83213270029542
+156,Reforma del antiguo edificio de Unión Eléctrica,CALLE GRAN VIA 4,28 - Sevilla,Calle Alcalá nº 27,155.53495066655827
+157,Residencia de Estudiantes,CALLE PINAR 21,250 - Serrano 113,Calle Serrano nº 113B,223.46460871564554
+158,Restos del Antiguo Palacio del Buen Retiro,CALLE FELIPE IV 1,68 - Espalter,Calle Espalter nº 1,311.86684034671276
+159,Salón del Prado,Paseo PRADO ,68 - Espalter,Calle Espalter nº 1,309.52749885828825
+160,Teatro Barceló,CALLE BARCELO 11,54 - Barceló,Calle Barceló nº 7,74.9566053641321
+161,Teatro María Guerrero,Calle TAMAYO Y BAUS 4,26 - Plaza de las Salesas,Plaza de las Salesas 7,211.93389158062888
+162,Teatro Real,PLAZA ISABEL II ,24 - Palacio de Oriente,Calle Carlos III nº 1,168.5507668651908
+163,Teatro Valle-Inclán,CALLE VALENCIA 1,53 - Plaza de Lavapiés,Calle Valencia nº 1,42.01682423051408
+164,Templo de Debod,CALLE FERRAZ 1,115 - Ferraz,Calle Evaristo San Miguel nº 2,149.34424950794747
+165,Terminal T4,AEROPUERTO TERMINAL T-4 ,230 - Carlota O’Neill,Calle Carlota O'Neill nº 32,8368.936923524994
+166,Torre Castelar,PASEO CASTELLANA 50,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,Paseo de la Castellana nº 43,140.71434256841872
+167,Torre de Madrid,PLAZA ESPAÑA 18,116a - Plaza de España A,Calle Princesa nº 5,96.11286983020644
+168,Torres Blancas,AVENIDA AMERICA 37,195 - Avenida de América 1,Calle Padre Indalecio Hernández nº 1,405.51724026857124
+169,Tribunal Superior de Justicia,CALLE GENERAL CASTA&amp;Ntilde;OS 1,26 - Plaza de las Salesas,Plaza de las Salesas 7,97.18702466044573
+170,Viaducto,CALLE BAILEN 12,166 - Segovia 26,Calle Segovia nº 26,85.19641893488681
+171,Viviendas para Alejandro Santamaría,Calle GRAN VIA 56,23 - Santo Domingo,Plaza de Santo Domingo nº 1,156.3192300231152
+172,Viviendas para el Conde Artaza,Calle CABALLERO DE GRACIA 11,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,153.91587784701784
+173,Viviendas para el conde de Godó,Calle GRAN VIA 44,2 - Miguel Moya,Calle Miguel Moya nº 1,42.71303253545356
+174,Viviendas para el Marqués de Cubas y Fontalba,Calle GONZALO JIMENEZ DE QUESADA 2,211 - Desengaño,Calle Desengaño nº 1,52.94478723403195
+175,Viviendas para el Marqués de Cubas y Fontalba,Calle GONZALO JIMENEZ DE QUESADA 2,211 - Desengaño,Calle Desengaño nº 1,24.26649334801844
+176,Viviendas para el Marqués de Cubas y Fontalba,Calle GRAN VIA 30,211 - Desengaño,Calle Desengaño nº 1,52.94478723403195
+177,Viviendas para el Marqués de Cubas y Fontalba,Calle GRAN VIA 30,211 - Desengaño,Calle Desengaño nº 1,24.26649334801844
+178,Viviendas para el marqués de Falces,Calle CONCEPCION ARENAL 2,2 - Miguel Moya,Calle Miguel Moya nº 1,140.5616408755852
+179,Viviendas para el marqués de Urquijo,Calle GRAN VIA 6,28 - Sevilla,Calle Alcalá nº 27,163.75529876227134
+180,Viviendas para el marqués de Villamayor de Santiago,Calle CABALLERO DE GRACIA 7,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,150.06533193588282
+181,Viviendas para Fernando M. Vidales,Calle GRAN VIA 52,2 - Miguel Moya,Calle Miguel Moya nº 1,122.36688622600457
+182,Viviendas para José María Escriña,Calle GRAN VIA 69,116b - Plaza de España B,Calle Princesa nº 5,100.03056984684953
+183,Viviendas para José Pérez Pla,Calle FLOR BAJA 4,116b - Plaza de España B,Calle Princesa nº 5,159.9797495213874
+184,Viviendas para Juan Giralt de la Porta,Calle CABALLERO DE GRACIA 17,28 - Sevilla,Calle Alcalá nº 27,120.26760319563036
+185,Viviendas para la Sociedad Inmobiliaria de la Villa de Madrid. Bar Chicote.,Calle GRAN VIA 12,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,145.4169025971257
+186,Viviendas para la Sociedad Inmobiliaria de Madrid,Calle GRAN VIA 14,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,122.94292474243662
+187,Viviendas para Luis Ocharán Mazas,Calle CABALLERO DE GRACIA 21,28 - Sevilla,Calle Alcalá nº 27,109.9415708888054
+188,Viviendas para Luis y Manuel Mitjans,Calle CABALLERO DE GRACIA 13,28 - Sevilla,Calle Alcalá nº 27,152.01972501142822
+189,Viviendas para María Monasterio Arrillaga,Calle GRAN VIA 36,2 - Miguel Moya,Calle Miguel Moya nº 1,166.940707512287
+190,Viviendas para Seguros La Estrella,Calle GRAN VIA 20,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,85.77134732103265
+191,Viviendas para Seguros La Estrella,Calle GRAN VIA 20,28 - Sevilla,Calle Alcalá nº 27,171.12574170667634
+192,Viviendas para Seguros La Estrella,Calle GRAN VIA 10,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,85.77134732103265
+193,Viviendas para Seguros La Estrella,Calle GRAN VIA 10,28 - Sevilla,Calle Alcalá nº 27,171.12574170667634
+194,Viviendas para Tomás Allende,Calle CABALLERO DE GRACIA 1,211 - Desengaño,Calle Desengaño nº 1,161.6683355628262
+195,Viviendas y comercios para Francisco Escriña,Calle GRAN VIA 71,116b - Plaza de España B,Calle Princesa nº 5,87.05753787268947
+196,Viviendas y oficinas,Calle GRAN VIA 51,23 - Santo Domingo,Plaza de Santo Domingo nº 1,99.61371134130916
+197,Viviendas y oficinas,Calle GRAN VIA 51,116b - Plaza de España B,Calle Princesa nº 5,31.181633105688334
+198,Viviendas y oficinas,Calle GRAN VIA 51,23 - Santo Domingo,Plaza de Santo Domingo nº 1,102.94903738340366
+199,Viviendas y oficinas,Calle GRAN VIA 51,16 - San Bernardo,Calle San Bernardo nº 22,138.96717713344114
+200,Viviendas y oficinas,Calle GRAN VIA 80,23 - Santo Domingo,Plaza de Santo Domingo nº 1,99.61371134130916
+201,Viviendas y oficinas,Calle GRAN VIA 80,116b - Plaza de España B,Calle Princesa nº 5,31.181633105688334
+202,Viviendas y oficinas,Calle GRAN VIA 80,23 - Santo Domingo,Plaza de Santo Domingo nº 1,102.94903738340366
+203,Viviendas y oficinas,Calle GRAN VIA 80,16 - San Bernardo,Calle San Bernardo nº 22,138.96717713344114
+204,Viviendas y oficinas,Calle GRAN VIA 45,23 - Santo Domingo,Plaza de Santo Domingo nº 1,99.61371134130916
+205,Viviendas y oficinas,Calle GRAN VIA 45,116b - Plaza de España B,Calle Princesa nº 5,31.181633105688334
+206,Viviendas y oficinas,Calle GRAN VIA 45,23 - Santo Domingo,Plaza de Santo Domingo nº 1,102.94903738340366
+207,Viviendas y oficinas,Calle GRAN VIA 45,16 - San Bernardo,Calle San Bernardo nº 22,138.96717713344114
+208,Viviendas y oficinas,Calle GRAN VIA 60,23 - Santo Domingo,Plaza de Santo Domingo nº 1,99.61371134130916
+209,Viviendas y oficinas,Calle GRAN VIA 60,116b - Plaza de España B,Calle Princesa nº 5,31.181633105688334
+210,Viviendas y oficinas,Calle GRAN VIA 60,23 - Santo Domingo,Plaza de Santo Domingo nº 1,102.94903738340366
+211,Viviendas y oficinas,Calle GRAN VIA 60,16 - San Bernardo,Calle San Bernardo nº 22,138.96717713344114
+212,Viviendas y oficinas para el vizconde de Escoriaza,Calle GRAN VIA 22B,18 - Plaza de Pedro Zerolo,Plaza de Pedro Zerolo nº 1,108.7625285539447
+213,Viviendas y oficinas para Hilario Ruiz,Calle DOCTOR CARRACIDO ,116b - Plaza de España B,Calle Princesa nº 5,122.92221294734415
+214,Viviendas y oficinas para Jesús de Murga,Calle FUENCARRAL 2,211 - Desengaño,Calle Desengaño nº 1,121.04234918171231
+215,Viviendas y oficinas para Jesús Ussia y Cubas y Cine Azul,Calle GENERAL MITRE ,116b - Plaza de España B,Calle Princesa nº 5,71.48648148971989
+216,Viviendas y oficinas para José María Cano,Calle GRAN VIA 42,2 - Miguel Moya,Calle Miguel Moya nº 1,73.20857728027212
+217,Viviendas y oficinas para José María de Antonio Becerril,Calle GRAN VIA 8,28 - Sevilla,Calle Alcalá nº 27,162.50241695246038
+218,Viviendas y oficinas para José Pérez Pla,Calle GRAN VIA 64,16 - San Bernardo,Calle San Bernardo nº 22,146.63856794411885
+219,Viviendas y oficinas para Juan Miralles Sesé,Calle FLOR BAJA 2,116b - Plaza de España B,Calle Princesa nº 5,184.70658283569844
+220,Viviendas y oficinas para la Constructora Calpense,Calle CHINCHILLA ,210 - Tres Cruces,Calle Tres Cruces nº 7,74.18094561965017
+221,Viviendas y oficinas para Leopoldo García,Calle GRAN VIA 49,23 - Santo Domingo,Plaza de Santo Domingo nº 1,96.42089799304637
+222,Viviendas y oficinas para Rafael Calabuig,Calle GRAN VIA 58,16 - San Bernardo,Calle San Bernardo nº 22,140.49871014569732
+223,Viviendas y oficinas para Ramón Saiz de Carlos,Calle GRAN VIA 33,2 - Miguel Moya,Calle Miguel Moya nº 1,185.67607724976048
+224,Viviendas y oficinas para Santos Suárez y Compañía,Calle GRAN VIA 47,23 - Santo Domingo,Plaza de Santo Domingo nº 1,91.25230338110842
+225,Viviendas y oficinas para Seguros La Estrella,Calle CABALLERO DE GRACIA 15,28 - Sevilla,Calle Alcalá nº 27,133.39350999440458
+226,Viviendas y teatro Fontalba para el marqués de Cubas y Fontalba,Calle DESENGAÑO 3,211 - Desengaño,Calle Desengaño nº 1,31.74874238584515
+227,Zoo Aquarium de Madrid,COMPLEJO ZOOLOGICO DE LA CASA CAMPO ,224 - Caramuel,Calle Caramuel nº 51,3673.6864570461853
