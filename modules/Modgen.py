@@ -47,9 +47,9 @@ def one_monument():
 
 
 def all_monuments():
-    ALL_monuments = df_monuments[['title','address.street-address','location.latitude','location.longitude']].reset_index(drop=True)
-    ALL_MONUMENTS=[]
-    for index, row in ALL_monuments.iterrows():
+    all_monuments = df_monuments[['title','address.street-address','location.latitude','location.longitude']].reset_index(drop=True)
+    all_monumentsf=[]
+    for index, row in all_monuments.iterrows():
         df_stations['distance']=df_stations.apply(lambda x: geo.distance_meters(x['latitude'], 
                                                                     x['longitude'],
                                                                     row[('location.latitude')],
@@ -57,7 +57,7 @@ def all_monuments():
         df1=df_stations[df_stations['distance']==df_stations['distance'].min()].reset_index(drop=True)
         df1['title']=row['title']
         #display(df1)
-        ALL_MONUMENTS.append(df1)
-    df_final = pd.concat(ALL_MONUMENTS)
-    df_output2= pd.merge(ALL_monuments[['title','address.street-address']], df_final[['name','address','title']], on ='title')
+        all_monumentsf.append(df1)
+    df_final = pd.concat(all_monumentsf)
+    df_output2= pd.merge(all_monuments[['title','address.street-address']], df_final[['name','address','title']], on ='title')
     return df_output2
