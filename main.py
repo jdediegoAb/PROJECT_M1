@@ -1,6 +1,7 @@
 # import library
 import argparse
 from modules import Modgen as mon
+from modules import sendmail as mail
 # Script functions 
 mon.one_monument
 
@@ -14,17 +15,13 @@ def argument_parser():
     parser.add_argument('-f', '--function', help=help_message, type=str)
     args = parser.parse_args()
     return args
-
-# Input data
-
-#n1 = float(input('Enter an option: one '))
-#n2 = float(input('Enter an option: all '))
-
 # Pipeline execution
 
 if __name__ == '__main__':
     if argument_parser().function == 'all':
+        useremail=str(input("To have the information enter your email: "))
         result = mon.all_monuments()
+        mail.send_email(useremail, 'Test', 'MADnumentos', './monument_list.csv')
     elif argument_parser().function == 'one':
         result = mon.one_monument()
     else:

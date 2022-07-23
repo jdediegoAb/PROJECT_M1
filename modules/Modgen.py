@@ -5,9 +5,10 @@ import pandas as pd
 import requests
 import fuzzywuzzy
 from fuzzywuzzy import fuzz,process
-import geofunctions as geo
+from modules import geofunctions as geo
+from modules import sendmail as mail
 
-conection_string='mysql+pymysql://ironhack_user:%Vq=c>G5@173.201.189.217/BiciMAD'
+conection_string='mysql+pymysql://ironhack_user:%Vq=c>G5@173.201.189.217/BiciMAD'#mañana corregir
 engine = create_engine(conection_string)
 inspector = inspect(engine)
 inspector.get_table_names()
@@ -42,7 +43,7 @@ def one_monument():
                                                                     select_monument[('location.longitude')]),axis=1)
     df_stations_1=df_stations[df_stations['distance']==df_stations['distance'].min()].reset_index(drop=True)
 
-    df_output=select_monument[['title','address.street-address']].join(df_stations_1[['name','address']])
+    df_output=select_monument[['title','address.street-address']].join(df_stations_1[['name','address','distance']])
     return df_output
 
 
@@ -59,5 +60,14 @@ def all_monuments():
         #display(df1)
         all_monumentsf.append(df1)
     df_final = pd.concat(all_monumentsf)
-    df_output2= pd.merge(all_monuments[['title','address.street-address']], df_final[['name','address','title']], on ='title')
+    df_output2= pd.merge(all_monuments[['title','address.street-address']], df_final[['name','address','title','distance']], on ='title')
+    #EXTRA
+    import folium
+    df_map = df_monuments
+    m = folium.Map(location=[40.43,-3.7], tiles="OpenStreetMap", zoom_start=13)
+    for i in range(0,len(df_map)):
+        folium.Marker(
+        location=[df_map.iloc[i]['location.latitude'], df_map.iloc[i]['location.longitude']],
+        popup=df_map.iloc[i]['title']).add_to(m)
+    m.save("monuments_map.html")
     return df_output2
